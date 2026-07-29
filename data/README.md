@@ -11,7 +11,7 @@ https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-
 Save as:
 
 ```text
-data/intakes.csv
+intakes.csv
 ```
 
 ### Austin Animal Center Outcomes
@@ -21,5 +21,5 @@ https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-
 Save as:
 
 ```text
-data/outcomes.csv
+outcomes.csv
 ```
