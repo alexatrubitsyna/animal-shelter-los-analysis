@@ -35,7 +35,7 @@ https://data.austintexas.gov/
 
 ## Author
 
-**Aleksandra Trubitsyna**
+**Aleksandra Trubitsyna**  
 Applied Mathematics, University of Colorado Boulder  
 
 Instructor: Dr. Osita Eluemuno Onyejekwe  
